@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Green Tea",
+    "description": "Refreshing green tea rich in antioxidants.",
+    "price": 12.99,
+    "image": "./assets/imgs/prod1.png"
+  },
+  {
+    "id": 2,
+    "title": "Natural Honey",
+    "description": "Pure honey harvested from wildflowers.",
+    "price": 9.50,
+    "image": "./assets/imgs/prod2.png"
+  },
+  {
+    "id": 3,
+    "title": "Handmade Soap",
+    "description": "Gentle soap made with natural essential oils.",
+    "price": 6.75,
+    "image": "./assets/imgs/prod3.png"
+  },
+  {
+    "id": 4,
+    "title": "Coffee Beans",
+    "description": "Freshly roasted Arabica coffee beans.",
+    "price": 14.20,
+    "image": "./assets/imgs/prod4.png"
+  },
+  {
+    "id": 5,
+    "title": "Almond Butter",
+    "description": "Smooth almond butter made from roasted almonds.",
+    "price": 11.00,
+    "image": "./assets/imgs/prod5.png"
+  },
+  {
+    "id": 6,
+    "title": "Coconut Oil",
+    "description": "Cold-pressed virgin coconut oil for cooking and care.",
+    "price": 8.50,
+    "image": "./assets/imgs/prod6.png"
+  }
+]
