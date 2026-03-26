@@ -33,4 +33,3 @@ Vous trouverez sous `specs` cinq tâches à réaliser :
 - [Task004 - Affichage conditionnel](specs/task004/task004.md)
 - [Task005 - Gestion simple d’erreur](specs/task005/task005.md)
 
-Pour identifier rapidement les zones à modifier, utilisez l’affichage **TODO** de votre IDE.
