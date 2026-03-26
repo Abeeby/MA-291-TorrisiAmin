@@ -1,6 +1,6 @@
 // Fonction pour récupérer les points de vente depuis le JSON
 export default async function fetchSalesPoints() {
-  const response = await fetch('../../data/points-of-sale.json');
+  const response = await fetch('../data/points-of-sale.json');
 
   if (!response.ok) {
     throw new Error(`Erreur lors du chargement des points de vente: ${response.status}`);
